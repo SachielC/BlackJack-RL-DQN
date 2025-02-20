@@ -1,2 +1,2 @@
-# BlackJack-RL-DQN
-Somewhat Naive blackjack RL implementation
+Blackjack Environment and RL solutions, Including Naive DQN, Double DQN, Multi Step Return DQN, REINFORCE, TRPO, and PPO. 
+
